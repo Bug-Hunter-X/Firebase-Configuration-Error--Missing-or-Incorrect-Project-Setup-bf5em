@@ -1,0 +1,1 @@
+This repository demonstrates a common Firebase configuration error and its solution. The `firebase_config_error.js` file shows an example of incorrect Firebase configuration, leading to an error. The `firebase_config_solution.js` file provides the corrected configuration, resolving the issue.  Ensure you have the Firebase JavaScript SDK installed (`npm install firebase`).
